@@ -1,0 +1,1 @@
+# stig-firefox
